@@ -1,2 +1,1 @@
-# request_data
-static_data
+## 一些静态请求数据，用来模拟网络请求
